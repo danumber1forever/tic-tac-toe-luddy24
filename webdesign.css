@@ -1,0 +1,52 @@
+h1{
+    color: blue;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+h3{
+    color: purple;
+    font-size: smaller;
+}
+
+.bar{
+    font-weight: bolder;
+    font-size:x-large;
+    display:inline;
+    padding:25px;
+}
+
+.line{
+    font-weight: bolder;
+    font-size:x-large;
+    display:inline;
+    /*padding:25px;*/
+}
+
+#gameStatus, #gameText{
+    font-size: 30px;
+}
+
+#reset {
+    background-color: blanchedalmond;
+    font-size: large;
+    font-weight:800;
+    font-weight: 100;
+    width:auto;
+    height:auto;
+    font-style:italic;
+    border: 2px dotted darkred;
+}
+
+input[type="button"]{
+    width: 80px;
+    height: 80px;
+    font-weight: bolder;
+    font-size: 80px;
+    background-color: aliceblue;
+    border: 0px;
+
+}
+
+body{
+    background-color: aliceblue;
+}
